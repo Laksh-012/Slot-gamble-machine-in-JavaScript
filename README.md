@@ -4,4 +4,3 @@ This project involves creating a slot machine game using only JavaScript. The ga
 
 
 
-
