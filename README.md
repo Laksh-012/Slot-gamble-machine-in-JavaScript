@@ -4,3 +4,6 @@ This project involves creating a slot machine game using only JavaScript. The ga
 
 
 
+
+![Screenshot 2024-09-14 180130](https://github.com/user-attachments/assets/db8ebb8d-a3f3-47a6-98ba-dc101d2d9b28)
+
