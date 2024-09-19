@@ -32,7 +32,7 @@ double deposit() {
         cin >> amount;
 
         if (cin.fail() || amount <= 0) {
-            cin.clear(); // clear the error flag
+            cin.clear(); 
             cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
             cout << "Invalid deposit amount, try again." << endl;
         } else {
